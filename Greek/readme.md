@@ -340,7 +340,7 @@ python
 ```shell
 """This is multiline comment
 multiline comment takes multiple lines.
-python is eating the world
+python is eating the world   
 """
 ```
 
